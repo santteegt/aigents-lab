@@ -21,11 +21,12 @@ const sidebars: SidebarsConfig = {
       label: 'Agent Frameworks',
       items: [
         'frameworks/intro',
-        'frameworks/langchain',
-        'frameworks/langgraph',
-        'frameworks/autogen',
-        'frameworks/crewai',
-        'frameworks/comparison',
+        // Additional framework documentation will be added as pages are created
+        // 'frameworks/langchain',
+        // 'frameworks/langgraph',
+        // 'frameworks/autogen',
+        // 'frameworks/crewai',
+        // 'frameworks/comparison',
       ],
     },
   ],

@@ -17,10 +17,10 @@ We analyze frameworks across several categories:
 
 ## Featured Frameworks
 
-- **[LangChain](/docs/frameworks/langchain)**: A framework for developing applications powered by language models
-- **[LangGraph](/docs/frameworks/langgraph)**: Graph-based agent orchestration framework
-- **[AutoGen](/docs/frameworks/autogen)**: Multi-agent conversation framework
-- **[CrewAI](/docs/frameworks/crewai)**: Framework for orchestrating role-playing, autonomous AI agents
+- **LangChain**: A framework for developing applications powered by language models (documentation coming soon)
+- **LangGraph**: Graph-based agent orchestration framework (documentation coming soon)
+- **AutoGen**: Multi-agent conversation framework (documentation coming soon)
+- **CrewAI**: Framework for orchestrating role-playing, autonomous AI agents (documentation coming soon)
 
 ## Web3 Integration
 
