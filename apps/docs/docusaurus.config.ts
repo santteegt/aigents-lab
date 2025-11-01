@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://decentraminds.github.io',
+  // Update this with your actual Vercel deployment URL
+  url: 'https://aigents-lab.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/aigents-lab/',
+  // For Vercel root deployment, use '/'
+  baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'decentraminds', // Usually your GitHub org/user name.
-  projectName: 'aigents-lab', // Usually your repo name.
+  // GitHub pages deployment config (commented out for Vercel)
+  // organizationName: 'decentraminds',
+  // projectName: 'aigents-lab',
 
   onBrokenLinks: 'throw',
 
