@@ -1,8 +1,8 @@
 {
-  "buildCommand": "npm install && npm run build",
+  "buildCommand": "pnpm install && pnpm run build",
   "outputDirectory": "build",
-  "devCommand": "npm start",
-  "installCommand": "npm install",
+  "devCommand": "pnpm start",
+  "installCommand": "pnpm install",
   "framework": null,
   "rewrites": [
     {
